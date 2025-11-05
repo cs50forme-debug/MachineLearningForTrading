@@ -31,22 +31,6 @@ The beta coefficient from linear regression that determines the optimal quantity
 pip install numpy pandas yfinance statsmodels matplotlib tensorflow scikit-learn tqdm rich
 ```
 
-## Installation
-
-```bash
-git clone <repository-url>
-cd pairs-trading-strategy
-pip install -r requirements.txt
-```
-
-## Usage
-
-Run the main script:
-
-```bash
-python pairs_trading.py
-```
-
 ### Input Parameters
 
 When prompted, provide:
