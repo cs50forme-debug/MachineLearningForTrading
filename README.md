@@ -123,7 +123,7 @@ pip install numpy pandas yfinance statsmodels matplotlib tensorflow scikit-learn
 ## Installation
 
 ```bash
-git clone github.com/cs50forme-debug/MachineLearningForTrading.git
+git clone https://github.com/cs50forme-debug/MachineLearningForTrading.git
 cd MachineLearningForTrading
 ```
 
