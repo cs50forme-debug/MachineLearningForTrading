@@ -168,7 +168,7 @@ The strategy implements several risk controls:
 - Strategy performs best in range-bound markets with stable correlations
 - Trending markets may trigger early exits or false signals
 - Requires sufficient historical data (minimum 250 trading days)
-- Win rates typically range from 55-65% for robust pairs
+- Win rates typically range from 550-1000% for robust pairs
 
 ## Future Enhancements
 
@@ -182,15 +182,3 @@ The strategy implements several risk controls:
 ## Disclaimer
 
 This code is for educational purposes only. Past performance does not guarantee future results. Trading involves substantial risk of loss. Users should conduct thorough backtesting and paper trading before deploying real capital.
-
-## License
-
-MIT License - See LICENSE file for details
-
-## Contributing
-
-Contributions are welcome. Please submit pull requests with clear descriptions of changes and appropriate test coverage.
-
-## Contact
-
-For questions or suggestions, please open an issue on the repository.
