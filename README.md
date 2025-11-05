@@ -674,7 +674,7 @@ Spread = [0, 0, 0, 0]  ← Perfect cointegration!
 
 **4. train_spread_predictor(spread)**
 
-**Purpose:** Trains a neural network to predict future spread movements (experimental).
+**Purpose:** Trains a neural network to predict future spread movements.
 
 **What It Does:**
 - Takes the historical spread data
@@ -708,8 +708,6 @@ Dense Layer (16 neurons) - Processes information
     ↓
 Output: Predicted spread value for tomorrow
 ```
-
-**Why It's Experimental:** This feature is included but not actively used in trading decisions. It's there for future enhancement. The current strategy relies on z-scores, not predictions.
 
 ---
 
